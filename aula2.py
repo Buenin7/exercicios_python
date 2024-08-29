@@ -88,4 +88,4 @@ nasc = int(input("Digite seu ano de nascmineto: "))
 ano = int(input("Digite o ano atual: "))
 print("Sua idade é: ", ano-nasc)
 
-# exercio 17 
+# exercio 17 (ler inferior e superior e mostrar apenas os números pares e soma-los)
